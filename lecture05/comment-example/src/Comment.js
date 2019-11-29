@@ -61,7 +61,7 @@ class Comment extends React.Component{
         return (
             <div style={styles.root}>
                 <div style={styles.imageContainer}>
-                    <img src='https://avatars1.githubusercontent.com/u/47407541?s=460&v=4' style={styles.image}/>
+                    <img src='http://mblogthumb1.phinf.naver.net/20150427_84/ninevincent_1430122792324niOLy_JPEG/kakao_2.jpg?type=w2' style={styles.image}/>
                 </div>
                 <div style={styles.commentContainer}>
                     <div style={styles.nameText}>
